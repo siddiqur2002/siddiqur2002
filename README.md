@@ -20,7 +20,7 @@
 
 ###
 
-<h1 align="center">👋Hey there! 👋 I'm crafting code, creating AI tools, and bringing ideas to life—one commit at a time.</h1>
+<h1 align="center">👋Hey there! I'm crafting code, creating AI tools, and bringing ideas to life—one commit at a time.</h1>
 
 ###
 
@@ -28,8 +28,7 @@
 
 ###
 
-<p align="left">
-###👋 Hi, I’m Md. Siddiqur Rahman from Dhaka, Bangladesh <br><br>-🔭 I’m working as a Web Developer & Programmer<br><br>-📚 I’m currently diving into Generative AI, LLMs, and Full-Stack Development<br><br>-🧠 I love solving problems with JavaScript, C++, and Python<br><br>-🌐 I’m building and deploying projects with Next.js, Node.js, and MongoDB<br><br>-🤖 I’m passionate about creating AI-powered web apps and personal assistant tools<br><br>-🛠️ I enjoy exploring DevOps, APIs, and cloud deployment with Vercel/Netlify<br><br>-💡 In my free time, I create open-source projects, learn new tech stacks, and contribute to communities<br><br>-🎯 My goal is to become a professional AI Engineer and contribute to impactful tech<br><br>-📬 Feel free to reach out or collaborate on something exciting!</p>
+<p align="left">-👋 Hi, I’m Md. Siddiqur Rahman from Dhaka, Bangladesh <br><br>-🔭 I’m working as a Web Developer & Programmer<br><br>-📚 I’m currently diving into Generative AI, LLMs, and Full-Stack Development<br><br>-🧠 I love solving problems with JavaScript, C++, and Python<br><br>-🌐 I’m building and deploying projects with Next.js, Node.js, and MongoDB<br><br>-🤖 I’m passionate about creating AI-powered web apps and personal assistant tools<br><br>-🛠️ I enjoy exploring DevOps, APIs, and cloud deployment with Vercel/Netlify<br><br>-💡 In my free time, I create open-source projects, learn new tech stacks, and contribute to communities<br><br>-🎯 My goal is to become a professional AI Engineer and contribute to impactful tech<br><br>-📬 Feel free to reach out or collaborate on something exciting!</p>
 
 ###
 
@@ -87,6 +86,6 @@
 
 ###
 
-<h3 align="left">🔥   My Stats : <br>- ⌛ Total contributions this year: X+<br>- 🌟 Total Stars: X+<br>- 🔁 Repositories Forked: X+<br>- 📈 Contribution Graph:</h3>
+<h3 align="left">🔥   My Stats : <br><br>![Siddiqur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddiqur2002&show_icons=true&theme=tokyonight&hide_border=false)<br><br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddiqur2002&layout=compact&theme=tokyonight&hide_border=false)<br><br>![GitHub Streak](https://streak-stats.demolab.com?user=siddiqur2002&theme=tokyonight&hide_border=false)<br><br>[![Siddiqur’s Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=siddiqur2002&theme=tokyo-night)](https://github.com/siddiqur2002)<br><br>- ⌛ Total contributions this year: X+<br>- 🌟 Total Stars: X+<br>- 🔁 Repositories Forked: X+<br>- 📈 Contribution Graph:  <br>[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=siddiqur2002&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)</h3>
 
 ###
