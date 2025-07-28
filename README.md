@@ -20,7 +20,7 @@
 
 ###
 
-<h1 align="center">👋Hey there! I'm crafting code, creating AI tools, and bringing ideas to life—one commit at a time.</h1>
+<h1 align="center">👋Hey there! 👩‍💻I'm crafting code, creating AI tools, and bringing ideas to life—one commit at a time.</h1>
 
 ###
 
@@ -32,7 +32,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Language and tools :</h3>
 
 ###
 
@@ -86,6 +86,6 @@
 
 ###
 
-<h3 align="left">🔥   My Stats : <br>![Siddiqur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddiqur2002&show_icons=true&theme=tokyonight&hide_border=false)<br><br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddiqur2002&layout=compact&theme=tokyonight&hide_border=false)<br><br>![GitHub Streak](https://streak-stats.demolab.com?user=siddiqur2002&theme=tokyonight&hide_border=false)<br><br>[![Siddiqur’s Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=siddiqur2002&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)<br><br><!-- Optional custom stats (replace X+ values manually or use GitHub API to fetch) --><br>- ⌛ Total contributions this year: X+<br>- 🌟 Total Stars: X+<br>- 🔁 Repositories Forked: X+<br>- 📈 Contribution Graph:</h3>
+<h3 align="left">🔥   My Stats : <br><br>![Siddiqur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddiqur2002&show_icons=true&theme=tokyonight&hide_border=false)<br><br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddiqur2002&layout=compact&theme=tokyonight&hide_border=false)<br><br>![GitHub Streak](https://streak-stats.demolab.com?user=siddiqur2002&theme=tokyonight&hide_border=false)<br><br><img src="https://github-readme-activity-graph.vercel.app/graph?username=siddiqur2002&theme=tokyo-night" alt="GitHub Activity Graph" width="100%" /><br><br>- ⌛ Total contributions this year: X+<br>- 🌟 Total Stars: X+<br>- 🔁 Repositories Forked: X+<br>- 📈 Contribution Graph:</h3>
 
 ###
